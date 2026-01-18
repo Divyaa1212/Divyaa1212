@@ -1,5 +1,5 @@
 
-#### 👋 Hi, I'm Divya Bharti!
+## 👋 Hi, I'm Divya Bharti!
 
 **Software Engineer | Data Science & AI Enthusiast**  
 
