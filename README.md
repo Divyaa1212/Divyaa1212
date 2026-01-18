@@ -84,7 +84,7 @@ I am exploring the world of AI, Data Science and Web Development with a deep cur
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyabharti26/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DBharti36116)
 
 <!--
 **Divyaa1212/Divyaa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
